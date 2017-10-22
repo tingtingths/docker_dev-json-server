@@ -1,0 +1,29 @@
+{
+    "vehicles": [
+        {
+            "id": 0,
+            "type": "car",
+            "name": "car_0"
+        },
+        {
+            "id": 1,
+            "type": "car",
+            "name": "car_1"
+        },
+        {
+            "id": 2,
+            "type": "plane",
+            "name": "plane_2"
+        },
+        {
+            "id": 3,
+            "type": "plane",
+            "name": "plane_3"
+        },
+        {
+            "id": 4,
+            "type": "boat",
+            "name": "boat_4"
+        }
+    ]
+}

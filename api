@@ -1,0 +1,9 @@
+Get item
+    curl -v -X GET http://localhost:3000/items/TE7883
+
+Create item
+    curl -v -X POST -d '@item.json' -H "Content-Type: application/json" http://localhost:3000/items
+
+Update item
+    curl -v -X PUT -d '@item.json' -H "Content-Type: application/json" http://localhost:3000/items/TE7883
+
